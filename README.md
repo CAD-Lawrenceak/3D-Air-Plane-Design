@@ -1,6 +1,6 @@
 # 3D Airplane Design
 
-This airplane was designed by me as part of the Computer-Aided Design (CAD) course at the university.
+This airplane was designed by me on Autodesk Inventor software as part of the Computer-Aided Design (CAD) course at the university.
 
 The project was developed entirely by me and based on the measurements of a real airplane.
 
